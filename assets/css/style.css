@@ -26,3 +26,35 @@ html, body {
     position: absolute;
     top: 39%;
 }
+
+.jumbotron {
+    padding: 1rem;
+    border-radius: 0;
+}
+
+.padding {
+    padding-bottom: 2rem;
+}
+
+.welcome {
+    width: 75%;
+    margin: 0 auto;
+    padding: top 2rem;
+}
+
+.welcome hr {
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.fa-code, .fa-html5, .fa-css3, .fa-camera, .fa-laptop, .fa-mobile, .fa-sun-o{
+    color: cornflowerblue;
+    font-size: 4em;
+    margin: 1rem;
+}
+
+footer {
+    background-color: darkgray;
+}
