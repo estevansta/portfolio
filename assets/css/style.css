@@ -49,7 +49,37 @@ html, body {
     margin-bottom: 1rem;
 }
 
-.fa-code, .fa-html5, .fa-css3, .fa-camera, .fa-laptop, .fa-mobile, .fa-sun-o{
+.fa-code, .fa-html5, .fa-css3, .fa-camera, .fa-laptop, .fa-mobile, .fa-bolt{
+    color: cornflowerblue;
+    font-size: 4em;
+    margin: 1rem;
+}
+
+.fa-html5 {
+    color: tomato;
+}
+
+.fa-bolt {
+    color: goldenrod;
+}
+
+.fa-code {
+    color: maroon;
+}
+
+.fa-mobile {
+    color: coral;
+}
+
+.fa-css3 {
+    color: seagreen;
+}
+
+.fa-camera {
+    color: saddlebrown;
+}
+
+.fa-facebook, .fa-instagram, .fa-github, .fa-linkedin {
     color: cornflowerblue;
     font-size: 4em;
     margin: 1rem;
